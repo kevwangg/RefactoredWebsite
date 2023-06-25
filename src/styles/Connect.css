@@ -1,0 +1,16 @@
+.connectLogo {
+    color: #800080;
+    font-size: 48px;
+}
+
+.connectList {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    padding: 1%
+}
+
+.connectList li {
+    padding-left: 0;
+    padding-right: 2%;
+  }
